@@ -1,7 +1,7 @@
 # Black Hole Classifier
 ![image](https://user-images.githubusercontent.com/71369943/130124315-7369065a-c0eb-4a3b-a54b-ad96f00d2741.png)
 
-A Machine Learning model made using Python with various ML technologies in referrence model from [Teachable Machines](https://teachablemachine.withgoogle.com/) specially made for different types of Black Holes:
+A Machine Learning model made using Python with various ML technologies in referrence model from [Teachable Machines](https://teachablemachine.withgoogle.com/) specially made for recognizing different types of Black Holes:
 - Stellar Black Holes
 - SuperMassive Black Holes
 - Intermediate Black Hole
