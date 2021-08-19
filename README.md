@@ -72,3 +72,5 @@ Use an absolute file path for classifier and images because the script dos not s
 - [Source Code ( TF )](https://github.com/PulkitSinghDev/Black-Hole-Classifier/tree/main/TF_(source_code))
 - [Source Code ( TF Lite )](https://github.com/PulkitSinghDev/Black-Hole-Classifier/tree/main/TF_Lite(source_code))
 - [License](LICENSE)
+
+[<img alt="Buy me a Coffee Button" width=200 src="https://c5.patreon.com/external/logo/become_a_patron_button.png">](https://www.patreon.com/PulkitSinghDev) &nbsp; [<img alt="Buy me a Coffee Button" width=200 src="https://cdn.buymeacoffee.com/buttons/default-yellow.png">](https://www.buymeacoffee.com/PulkitSinghDev)
